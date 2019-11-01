@@ -6,14 +6,14 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Moodle</name>
+    <name>Club2030</name>
 
     <description>
-        Moodle official app
+        Club2030
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://titusbatson.com" email="titusbatson@gmail.com">
+        Titus Batson
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
