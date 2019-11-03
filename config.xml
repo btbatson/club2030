@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.batson.club2030"
-        versionCode = "37100"
-        android-versionCode="37100"
-        version   = "3.7.1">
+        versionCode = "39100"
+        android-versionCode="37900"
+        version   = "3.9.1">
     <name>Club2030</name>
 
     <description>
